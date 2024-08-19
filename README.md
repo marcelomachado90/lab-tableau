@@ -36,3 +36,5 @@ Upon completion of this lab, you will be able to:
 
 10. **Save Your Work**: Preserve your Tableau workbook by saving it as `tableau-lab.tbwx`.
 
+Solution:
+https://public.tableau.com/app/profile/marcelo.machado2150/viz/marketingcustomervalueanalysis_17240093106130/Dashboard1
